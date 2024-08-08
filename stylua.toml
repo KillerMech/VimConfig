@@ -1,3 +1,8 @@
 indent_type = "Spaces"
+<<<<<<< HEAD
 indent_width = 2
 column_width = 120
+=======
+indent_width = 4
+column_width = 120
+>>>>>>> deb7c61 (Updated color scheme)
